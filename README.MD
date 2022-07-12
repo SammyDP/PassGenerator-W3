@@ -17,3 +17,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+ https://sammydp.github.io/PassGenerator-W3/
+
+![image](https://user-images.githubusercontent.com/107449948/178605832-fa29c7a3-d370-491a-ba9b-3f9b5da4feb4.png)
